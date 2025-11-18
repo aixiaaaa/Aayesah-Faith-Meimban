@@ -1,0 +1,13 @@
+/* External CSS */
+body {
+  background: linear-gradient(to bottom, #19183B, #5C3E94);
+}
+
+button {
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
